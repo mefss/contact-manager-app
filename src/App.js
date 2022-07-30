@@ -3,7 +3,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h3>اپلیکیشن مدیریت مخاطبین</h3>
+      <h3 style={{fontFamily:"Vazir", fontWeight:'bold'}}>اپلیکیشن مدیریت مخاطبین</h3>
       <button className='btn btn-primary'>Button</button>
       <br/>
       <span className='far fa-user'></span>
